@@ -1,14 +1,17 @@
-#wholepage {
+/* #wholepage {
 	background-color: #93D7E6;
-}
+} */
 
-.hello {
+#hello {
 	height: 100vh;
 	line-height: 100vh;
 	text-align: center;
 	color: white;
 	font-size: 10vh;
 	font-family: 'Courier New', Courier, monospace;
+}
+
+.glow {
 	animation: glow 2s ease-in-out infinite alternate;
 }
 
