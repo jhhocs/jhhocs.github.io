@@ -1,5 +1,11 @@
-#wholepage{
-	width: 100%;
-	height: 100%;
+#wholepage {
 	background-color: #93D7E6;
+}
+
+.hello {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	font-size: 50px;
+	font-family: 'Courier New', Courier, monospace;
 }
