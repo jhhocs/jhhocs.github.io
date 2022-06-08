@@ -9,4 +9,14 @@
 	color: white;
 	font-size: 10vh;
 	font-family: 'Courier New', Courier, monospace;
+	animation: glow 2s ease-in-out infinite alternate;
 }
+
+@keyframes glow {
+	from {
+
+	}
+	to {
+	  text-shadow: 0 0 10px #fff, 0 0 20px #fff;
+	}
+  }
