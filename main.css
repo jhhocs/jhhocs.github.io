@@ -1,10 +1,12 @@
-/* #wholepage {
-	background-color: #93D7E6;
-} */
+#wholepage {
+	width: 100%;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
 
 #hello {
-	height: 100vh;
-	line-height: 100vh;
 	text-align: center;
 	font-weight: 500;
 	color: white;
