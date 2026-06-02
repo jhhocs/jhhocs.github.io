@@ -6,9 +6,10 @@
 	height: 100vh;
 	line-height: 100vh;
 	text-align: center;
+	font-weight: 500;
 	color: white;
 	font-size: 10vh;
-	font-family: 'Courier New', Courier, monospace;
+	font-family: 'Playfair Display';
 }
 
 .glow {
